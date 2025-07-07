@@ -32,6 +32,7 @@ This project presents a dynamic Excel dashboard designed to analyze and visualiz
 ## Files
 
 - `Call_Center_Dashboard.xlsx` – Final dashboard and supporting dataset
+- https://github.com/Codexkiz/excel-call-center-dashboard/blob/main/Screenshot%202025-07-07%20211903.png - Dashboard Screenshot
 
 ## Notes
 
